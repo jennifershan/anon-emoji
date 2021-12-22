@@ -8,7 +8,7 @@ Emojis has become common in digital communication for efficiently and effectivel
 
 I am curious about how hacktivists appear on social media. Since I am very supportive of emojis and I am interested in what Anonymous chooses to share, I will be looking at how Anonymous-affiliated Twitter users’ emoji use differs from a typical user’s emoji use. How can we explain differences? What different meanings may different emojis have? 
 
-The files are listed in their order of creation:
+The files are listed here in their order of creation:
 * main_collect.ipynb - This notebook contains data collection and data filtering.
 * fwg.json, fwr.json - These files contain the ids of followers and friends pulled from the seed accounts.
 * anonfwg.json, anonfwr.json - These files contain the ids of Anonymous-affiliated candidates after checking for alphanumeric variations of 'anonymous' and 'legion'.
@@ -16,4 +16,4 @@ The files are listed in their order of creation:
 * affiliation.csv - This file contains the manually labelled affiliations of users in anonacc.json.
 * atweets.json, rtweets.json - These files contain Anonymous-affliated tweets and randomly sampled tweets.
 * main_analyze.ipynb - This notebook contains data analysis and data visualization.
-* wc_anon_emojis.png, wc_random_emojis.png - These files are WordClouds using Anonymous-affliated tweet emojis and randomly sampled tweet emojis.
+* wc_anon_emojis.png, wc_random_emojis.png - These files are WordClouds made with [this font](https://github.com/eosrei/twemoji-color-font) that display Anonymous-affliated tweet emojis and randomly sampled tweet emojis.
