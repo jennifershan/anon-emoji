@@ -1,6 +1,6 @@
 # anon-emoji
 
-A partial replication of [The Shadowy Lives
+Partial replication of [The Shadowy Lives
 of Emojis: An Analysis of a Hacktivist Collective’s Use of
 Emojis on Twitter](https://arxiv.org/pdf/2105.03168.pdf). 
 
